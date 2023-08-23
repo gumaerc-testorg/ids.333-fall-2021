@@ -20,7 +20,7 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1LD_Ep2eavT2ag940kt-bU7PSLENAIaRu_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: forecast, project management, flaw of averages
+  video_tags: forecast, project management, flaw of averages, DubbedWithAloud
   youtube_description: "MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
     \ Richard de Neufville\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\

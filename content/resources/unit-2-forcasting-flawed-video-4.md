@@ -21,7 +21,8 @@ video_files:
   video_transcript_file: /courses/ids-333-risk-and-decision-analysis-fall-2021/1b-r9ym7zInE2us1EtRYd0MxBgvuAdv15_transcript.pdf
 video_metadata:
   video_speakers: ''
-  video_tags: project management, forecasting process, inherent bias, game changers
+  video_tags: project management, forecasting process, inherent bias, game changers,
+    DubbedWithAloud
   youtube_description: "\"MIT IDS.333 Risk and Decision Analysis, Fall 2021\nInstructor:\
     \ run the forecasts 'off the road''\nView the complete course: https://ocw.mit.edu/courses/ids-333-risk-and-decision-analysis-fall-2021/\n\
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
