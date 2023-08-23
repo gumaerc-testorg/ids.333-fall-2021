@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT_IDS_333f21_Quiz.pdf
-uid: db790dd2-1c97-451e-ad93-2ebadc3d025f
+title: MIT_IDS_333f21_quiz.pdf
+uid: 63bea8ae-97a8-434b-a0a5-d72f8144a884
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
