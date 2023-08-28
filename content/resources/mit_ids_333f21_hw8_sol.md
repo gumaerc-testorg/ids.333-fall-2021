@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT_IDS_333f21_hw8_sol.pdf
-uid: 0afb4ce4-09cd-496c-9294-def7e4b9cf87
+uid: cab8e6cb-12e4-4128-a91a-f43319a44025
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT_IDS_333f21_Project2Slides.pdf
-uid: d8495b71-45d5-4cd0-a003-637046ee4722
+title: MIT_IDS_333f21_project2slides.pdf
+uid: bb2f8be0-bcb7-4f10-a266-8da29a097b8c
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
