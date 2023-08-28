@@ -50,7 +50,6 @@ videos:
   - ed3cf3e4-8fa0-4be1-9087-6a0a6ab800f8
   - 287ef4a5-ab45-4851-aba1-11a84b9813cf
   - 9c4c6245-2bc0-4ef2-8a06-e74883641ec9
-  - b81dca4a-bf1d-44bd-b27f-1966870facbf
   website: risk-and-decision-analysis
 ---
 The following videos serve as pre-class assignments in each unit (no videos for units 1, 3, and 6).
