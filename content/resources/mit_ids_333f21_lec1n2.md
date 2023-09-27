@@ -11,8 +11,8 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: mit_ids_333f21_lec1n.pdf
-uid: 0fd79037-5b0e-485f-ba3b-fb9d87e827b7
+title: MIT_IDS_333f21_lec1n2.pdf
+uid: 83b78720-a3fc-490b-90be-63d1d3e26fd3
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

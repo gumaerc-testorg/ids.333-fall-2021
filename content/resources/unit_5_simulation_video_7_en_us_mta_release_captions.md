@@ -2,17 +2,17 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_hw3.pdf
-file_type: application/pdf
+file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_captions.srt
+file_type: application/octet-stream
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Document
-title: MIT_IDS_333f21_hw3.pdf
-uid: 93e0c819-68cb-4bac-a794-5b02339f69bc
+resourcetype: Other
+title: Unit_5_Simulation_Video_7_en_us_mta_release_captions.srt
+uid: 628be69b-c649-471d-a63f-48de0fc96f78
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''

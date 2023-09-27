@@ -12,7 +12,7 @@ learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: MIT_IDS_333f21_lec8.pdf
-uid: 078ce200-569d-4c87-93ce-57e6b4235f32
+uid: aa50b002-08a6-47e1-b294-f2819f12c829
 video_files:
   video_captions_file: ''
   video_thumbnail_file: ''
