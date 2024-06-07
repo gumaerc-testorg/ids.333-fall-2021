@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: ''
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_lec1.pdf
+file_size: 215780
 file_type: application/pdf
 image_metadata:
   caption: ''

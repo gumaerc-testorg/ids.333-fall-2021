@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit-2-forcasting-flawed-video-4_360p_16_9.mp4
+file_size: 6677494
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -28,8 +29,10 @@ video_metadata:
     YouTube Playlist: https://www.youtube.com/playlist?list=PLUl4u3cNGP62jwhTqp8_1kwrkDkxZhpQC\n\
     \nCommon forecasting processes in great part project past trends into the future.\
     \ This approach inherently fails to deal with the inevitable political, economic,\
-    \ and technological 'game changers.''\n\nLicense: Creative Commons BY-NC-SA\n\
-    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    \ and technological 'game changers.''\n\nThis video has been dubbed using an artificial\
+    \ voice via https://aloud.area120.google.com to increase accessibility. You can\
+    \ change the audio track language in the Settings menu.\n\nLicense: Creative Commons\
+    \ BY-NC-SA\nMore information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
     Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
     \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
     \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\

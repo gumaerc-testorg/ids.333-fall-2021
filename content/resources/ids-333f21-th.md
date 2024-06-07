@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/ids-333f21-th.jpg
+file_size: 11903
 file_type: image/jpeg
 image_metadata:
   caption: ''
