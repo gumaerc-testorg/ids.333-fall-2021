@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_hw4.xls
+file_size: 395776
 file_type: application/vnd.ms-excel
 image_metadata:
   caption: ''

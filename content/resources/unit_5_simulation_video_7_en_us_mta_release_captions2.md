@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_captions.vtt
+file_size: 2671
 file_type: text/vtt
 image_metadata:
   caption: ''
