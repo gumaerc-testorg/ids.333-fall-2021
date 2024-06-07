@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit-2-porcupine-graphic-video-3_360p_16_9.mp4
+file_size: 11016116
 file_type: video/mp4
 image_metadata:
   caption: ''
@@ -28,12 +29,14 @@ video_metadata:
     \nThis video introduced the notion of porcupine graphs, that illustrate the common\
     \ phenomenon that experts in various fields find it difficult to adjust their\
     \ forecasts to what is actually happening, and thus can be consistently biased\
-    \ over long periods.\n\nLicense: Creative Commons BY-NC-SA\nMore information at\
-    \ https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\nSupport OCW\
-    \ at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments and discussion\
-    \ on OCW\u2019s YouTube and other social media channels. Personal attacks, hate\
-    \ speech, trolling, and inappropriate comments are not allowed and may be removed.\
-    \ More details at https://ocw.mit.edu/comments."
+    \ over long periods.\n\nThis video has been dubbed using an artificial voice via\
+    \ https://aloud.area120.google.com to increase accessibility. You can change the\
+    \ audio track language in the Settings menu.\n\nLicense: Creative Commons BY-NC-SA\n\
+    More information at https://ocw.mit.edu/terms\nMore courses at https://ocw.mit.edu\n\
+    Support OCW at http://ow.ly/a1If50zVRlQ\n\nWe encourage constructive comments\
+    \ and discussion on OCW\u2019s YouTube and other social media channels. Personal\
+    \ attacks, hate speech, trolling, and inappropriate comments are not allowed and\
+    \ may be removed. More details at https://ocw.mit.edu/comments."
   youtube_id: QdE66s-3BNw
 ---
 This video introduces the notion of porcupine graphs, that illustrate the common phenomenon that experts in various fields find it difficult to adjust their forecasts to what is actually happening, and thus can be consistently biased over long periods.
