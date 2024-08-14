@@ -68,11 +68,3 @@ Richard de Neufville, et al. Chapter 11 “Engineering Options Analysis - Applic
 We expect students to have an up-to-date version of Excel.
 
 You might also want to use [@Risk](https://github.com/Risk). This user-friendly product simplifies production and presentation of results. To obtain the software, you can get the [15-day free trial version](http://www.palisade.com/trials.asp) or pay $75 for a [student version](http://www.palisade.com/cart/products_EN.asp?cat=51&panel=0).
-
-{{< resource uuid="b81dca4a-bf1d-44bd-b27f-1966870facbf" >}}
-
-{{% resource_link "3fbe6097-63a8-40f9-84e9-5279cec1a1da" "Unit\_5\_Simulation\_Video\_7\_en\_us\_mta\_release\_transcript.pdf" %}}
-
-{{% resource_link "036dc8e5-5a63-4924-97f8-5aa93c44594b" "Unit\_5\_Simulation\_Video\_7\_en\_us\_mta\_release\_captions.vtt" %}}
-
-{{< resource uuid="0ecb5392-5f21-4ca3-a406-100e22c7c862" >}}
