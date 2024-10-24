@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/ids-333-risk-and-decision-analysis-fall-2021/unit-8-decision-analysis-video-3_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/ids-333-risk-and-decision-analysis-fall-2021/unit-8-decision-analysis-video-3_360p_16_9.mp4
 file_size: 9389116
 file_type: video/mp4
 image_metadata:
