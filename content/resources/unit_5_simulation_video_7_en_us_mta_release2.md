@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: /gdrive_uploads/risk-and-decision-analysis/1k59Dp4QgydZQda3gDwXp86RmvlGNHKFU/unit_5_simulation_video_7_en_us_mta_release.mp4
+file: /ol-ocw-studio-app/gdrive_uploads/risk-and-decision-analysis/1k59Dp4QgydZQda3gDwXp86RmvlGNHKFU/unit_5_simulation_video_7_en_us_mta_release.mp4
 file_size: 29710314
 file_type: video/mp4
 image_metadata:
