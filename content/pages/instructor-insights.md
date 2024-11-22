@@ -57,7 +57,7 @@ None
 
 ### Requirements Satisfied
 
-IDS.333 can be applied toward a [master’s degree in System Design and Management](https://sdm.mit.edu/wp-content/uploads/2022/01/Approved-Degree-Courses-for-Web-2021.pdf) or a [master’s degree in Supply Chain Management](https://scm.mit.edu/masters-curriculum-scm-residential-program), but is not required.
+IDS.333 can be applied toward a [master’s degree in System Design and Management](https://sdm.mit.edu/wp-content/uploads/2022/01/Approved-Degree-Courses-for-Web-2021.pdf) or a [master’s degree in Supply Chain Management](https://scm.mit.edu/supply-chain-management-masters-degree-options/), but is not required.
 
 ### Offered
 
