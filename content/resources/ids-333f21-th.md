@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/ids-333-risk-and-decision-analysis-fall-2021/ids-333f21-th.jpg
+file: courses/risk-and-decision-analysis/ids-333f21-th.jpg
 file_size: 11903
 file_type: image/jpeg
 image_metadata:
