@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/ids-333-risk-and-decision-analysis-fall-2021/unit-10-utility-video-1_360p_16_9.mp4
+file: courses/risk-and-decision-analysis/unit-10-utility-video-1_360p_16_9.mp4
 file_size: 10998886
 file_type: video/mp4
 image_metadata:

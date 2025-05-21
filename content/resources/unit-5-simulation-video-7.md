@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/ids-333-risk-and-decision-analysis-fall-2021/unit-5-simulation-video-7_360p_16_9.mp4
+file: courses/risk-and-decision-analysis/unit-5-simulation-video-7_360p_16_9.mp4
 file_size: 2785405
 file_type: video/mp4
 image_metadata:

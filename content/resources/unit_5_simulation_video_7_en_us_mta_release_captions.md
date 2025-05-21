@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: true
-file: /ol-ocw-studio-app/courses/ids-333-risk-and-decision-analysis-fall-2021/unit_5_simulation_video_7_en_us_mta_release_captions.srt
+file: courses/risk-and-decision-analysis/unit_5_simulation_video_7_en_us_mta_release_captions.srt
 file_size: 1862
 file_type: application/octet-stream
 image_metadata:
