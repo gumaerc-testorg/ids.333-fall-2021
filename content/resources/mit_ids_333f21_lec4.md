@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/risk-and-decision-analysis/mit_ids_333f21_lec4.pdf
+file: /ol-ocw-studio-app/courses/ids-333-risk-and-decision-analysis-fall-2021/mit_ids_333f21_lec4.pdf
 file_size: 103592
 file_type: application/pdf
 image_metadata:
@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT_IDS_333f21_lec4.pdf
+title: Microsoft Word - Garage Case_Tech_Note Draft Final January.doc
 uid: 8aa5cc99-1214-4979-be4a-205fcd374098
 video_files:
   video_captions_file: ''
