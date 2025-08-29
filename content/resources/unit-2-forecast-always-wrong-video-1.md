@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/risk-and-decision-analysis/unit-2-forecast-always-wrong-video-1_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/ids-333-risk-and-decision-analysis-fall-2021/unit-2-forecast-always-wrong-video-1_360p_16_9.mp4
 file_size: 13502596
 file_type: video/mp4
 image_metadata:

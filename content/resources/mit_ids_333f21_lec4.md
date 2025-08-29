@@ -12,7 +12,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: MIT_IDS_333f21_lec4.pdf
+title: Microsoft Word - Garage Case_Tech_Note Draft Final January.doc
 uid: 8aa5cc99-1214-4979-be4a-205fcd374098
 video_files:
   video_captions_file: ''
