@@ -22,7 +22,7 @@ All available lecture notes are provided below:
 
 **Unit 4: Garage Case**
 
-[Session 4: Garage Case Example](https://web.mit.edu/deweck/Public/Alstom/deNeufville_et_al_2006.pdf)
+{{% resource_link "4d540021-59f6-4a28-be52-1986e3d896d2" "Session 4: Garage Case Example" %}}
 
 **Unit 5: Simulation Mechanics**
 

@@ -24,4 +24,4 @@ Additional resource:
 
 Homework Excel spreadsheet
 
-[How to Create a Tornado Diagram](https://mbounthavong.com/blog/2018/5/26/communicating-data-effectively-with-data-visualizations-tornado-diagram)
+{{% resource_link "452dd758-b8c1-4e49-b992-634c72a01a3d" "How to Create a Tornado Diagram" %}}
