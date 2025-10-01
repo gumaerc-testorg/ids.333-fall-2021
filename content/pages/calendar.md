@@ -8,11 +8,11 @@ uid: d7b7e804-d8d2-4f8b-9d95-d4c568d245ef
 ---
 This course was taught at MIT as a half-term course. Learners can choose a learning pace based on their learning need.
 
-\[FD\] = Richard de Neufville and Stefan Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Books](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
+\[FD\] = Richard de Neufville and Stefan Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with {{% resource_link "b88018d6-5bf0-4cef-9410-593b338933f2" "Google Books" %}}\]
 
-\[ASA\] = Richard de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management* (free download)](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 9780070163720.
+\[ASA\] = Richard de Neufville. {{% resource_link "e40d4756-82c5-48c8-8867-4baeb0dd757a" "*Applied Systems Analysis: Engineering Planning and Technology Management* (free download)" %}}*.* McGraw-Hill, 1990. ISBN: 9780070163720.
 
-\[XL\] = Excel and [@Risk](https://github.com/Risk) boot camp [material](https://web.mit.edu/ardent/www/ROcse_Excel_latest/Excel_Class.html)
+\[XL\] = Excel and {{% resource_link "888776c3-afe6-4d85-bf41-b04ba9d4d666" "@Risk" %}} boot camp {{% resource_link "e15abae4-eff2-44eb-bda1-6a2cc88ab11d" "material" %}}
 
 ## Unit 1: Introduction
 
