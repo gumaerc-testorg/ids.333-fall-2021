@@ -33,7 +33,7 @@ In class, the instructor actively engages with students rather than distributing
 
 **Richard de Neufville:** Students will read/view the material before class, because an indispensable 30% of their grade depends on filling out associated app-based questionnaires. These apps sort, analyze, and present student responses so the instructor can process them efficiently and use them in class.
 
-\[See this [further description of how the flipped classroom works](https://openlearning.mit.edu/mit-faculty/residential-digital-innovations/student-pre-class-preparation-enhances-class-time).\] 
+\[See this {{% resource_link "33aaa1bb-1123-4d03-a406-550c8dd1b9bb" "further description of how the flipped classroom works" %}}.\] 
 
 **OCW:** What results have you observed from the change to an app-enabled flipped classroom?
 
@@ -57,7 +57,7 @@ None
 
 ### Requirements Satisfied
 
-IDS.333 can be applied toward a [master’s degree in System Design and Management](https://sdm.mit.edu/wp-content/uploads/2022/01/Approved-Degree-Courses-for-Web-2021.pdf) or a [master’s degree in Supply Chain Management](https://scm.mit.edu/supply-chain-management-masters-degree-options/), but is not required.
+IDS.333 can be applied toward a {{% resource_link "530c1e91-5171-4850-9e16-f5bc9f4e27b3" "master’s degree in System Design and Management" %}} or a {{% resource_link "ff6e7f12-e3fa-4503-9eab-f87ff83bedef" "master’s degree in Supply Chain Management" %}}, but is not required.
 
 ### Offered
 
@@ -79,7 +79,7 @@ Course grades were assigned based on a weighted average of the following element
 
 ### Breakdown by Major
 
-2/3 of students were in the MIT [System Design and Management (SDM)](https://sdm.mit.edu/) program.
+2/3 of students were in the MIT {{% resource_link "e8c67b60-dc36-4829-9578-8a54a94617cb" "System Design and Management (SDM)" %}} program.
 
 ### Typical Student Background
 
