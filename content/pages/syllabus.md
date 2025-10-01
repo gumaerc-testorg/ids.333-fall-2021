@@ -47,24 +47,24 @@ Course grades will be a weighted average of the following elements:
 
 ## Text
 
-Richard de Neufville and Stefan Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with [Google Books](https://www.google.com/books/edition/Flexibility_in_Engineering_Design/pKjnnqilr3EC?hl=en&gbpv=1)\]
+Richard de Neufville and Stefan Scholtes. *Flexibility in Engineering Design*, MIT Press, 2011. ISBN: 9780262016230. \[Preview with {{% resource_link "b88018d6-5bf0-4cef-9410-593b338933f2" "Google Books" %}}\]
 
 ## Reading List
 
-Richard de Neufville. [*Applied Systems Analysis: Engineering Planning and Technology Management* (free download)](https://web.mit.edu/ardent/www/ASA_Text/asa_Text_index.html)*.* McGraw-Hill, 1990. ISBN: 9780070163720.
+Richard de Neufville. {{% resource_link "e40d4756-82c5-48c8-8867-4baeb0dd757a" "*Applied Systems Analysis: Engineering Planning and Technology Management* (free download)" %}}*.* McGraw-Hill, 1990. ISBN: 9780070163720.
 
-Excel and [@Risk](https://github.com/Risk) boot camp [material](https://web.mit.edu/ardent/www/ROcse_Excel_latest/Excel_Class.html)
+Excel and {{% resource_link "888776c3-afe6-4d85-bf41-b04ba9d4d666" "@Risk" %}} boot camp {{% resource_link "e15abae4-eff2-44eb-bda1-6a2cc88ab11d" "material" %}}
 
 ## Related References
 
 David Geltner and Richard de Neufville, *Flexibility and Real Estate Valuation under Uncertainty: A Practical Guide for Developers.* Wiley-Blackwell, 2018. ISBN: 9781119106487.
 
-Richard de Neufville, and Kim Smet. Chapter 6 “Engineering Options Analysis,” in [*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)](https://library.oapen.org/handle/20.500.12657/22900)*.* Springer, 2019. ISBN: 9783030052522.
+Richard de Neufville, and Kim Smet. Chapter 6 “Engineering Options Analysis,” in {{% resource_link "7a3bf5bb-ffe0-499e-8383-424bcd405af1" "*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)" %}}*.* Springer, 2019. ISBN: 9783030052522.
 
-Richard de Neufville, et al. Chapter 11 “Engineering Options Analysis - Applications,” in [*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)](https://library.oapen.org/handle/20.500.12657/22900)*.* Springer, 2019. ISBN: 9783030052522.
+Richard de Neufville, et al. Chapter 11 “Engineering Options Analysis - Applications,” in {{% resource_link "7a3bf5bb-ffe0-499e-8383-424bcd405af1" "*Decision Making under Deep Uncertainty: From Theory to Practice* (free download)" %}}*.* Springer, 2019. ISBN: 9783030052522.
 
 ## Software Students Should Have
 
 We expect students to have an up-to-date version of Excel.
 
-You might also want to use [@Risk](https://github.com/Risk). This user-friendly product simplifies production and presentation of results. To obtain the software, you can get the [15-day free trial version](http://www.palisade.com/trials.asp) or pay $75 for a [student version](http://www.palisade.com/cart/products_EN.asp?cat=51&panel=0).
+You might also want to use {{% resource_link "888776c3-afe6-4d85-bf41-b04ba9d4d666" "@Risk" %}}. This user-friendly product simplifies production and presentation of results. To obtain the software, you can get the {{% resource_link "96548148-3d00-43f6-b4ac-6768050eabf0" "15-day free trial version" %}} or pay $75 for a {{% resource_link "b81b8996-b9dd-48f9-bf1b-569256404320" "student version" %}}.
